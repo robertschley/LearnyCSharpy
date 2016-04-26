@@ -1,0 +1,9 @@
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\bin\Debug\LearnWindowsForms.exe.config
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.Form1.resources
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.Properties.Resources.resources
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.csproj.GenerateResource.Cache
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\bin\Debug\LearnWindowsForms.exe
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\bin\Debug\LearnWindowsForms.pdb
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.exe
+C:\Users\robert\Documents\GitRepos\LearnyCSharpy\FirstWindowsForm\LearnWindowsForms\LearnWindowsForms\obj\Debug\LearnWindowsForms.pdb
